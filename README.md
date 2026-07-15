@@ -114,19 +114,6 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-(image.png)
-
-### Resume Ranking
-(image-1.png)
-
-
-
----
-
 ## 📈 Future Enhancements
 
 - Resume feedback using LLMs
