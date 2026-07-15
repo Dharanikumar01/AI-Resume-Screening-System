@@ -118,15 +118,12 @@ streamlit run app.py
 
 ### Home Page
 
-_Add screenshot here_
+(image.png)
 
 ### Resume Ranking
+(image-1.png)
 
-_Add screenshot here_
 
-### Candidate Details
-
-_Add screenshot here_
 
 ---
 
